@@ -1,4 +1,3 @@
-#teste de pipeline
 pipeline {
     agent any
 
